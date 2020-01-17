@@ -1,10 +1,8 @@
 module TimeModels
 
-using Dates
 using Distributions
 using StatsBase
 using TimeSeries
-using Optim
 using NLopt
 using Compat
 
