@@ -1,6 +1,6 @@
 module TimeModels
 
-using Base.Dates
+using Dates
 using Distributions
 using StatsBase
 using TimeSeries
